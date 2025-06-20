@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="80" alt="react-logo" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="80" alt="node-logo" />
-    <img src="https://learn.microsoft.com/en-us/media/logos/logo-net.svg" width="100"
-    alt="dotnet-logo" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=83CD29" />
+  <img src="https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=dotnet&logoColor=9C4EF7" />
 </p>
+
 
 ---
 
