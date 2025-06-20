@@ -62,6 +62,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ariandika&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariandika&theme=tokyonight" />
 </p>
+---
+
+### 🧾 Check Out My Work
+
+[![Portfolio](https://img.shields.io/badge/-My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
+[![Blog](https://img.shields.io/badge/-My%20Blog-FF5722?style=for-the-badge&logo=hashnode&logoColor=white)](https://yourblog.com)
 
 ---
 
