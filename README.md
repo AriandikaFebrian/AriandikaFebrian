@@ -5,15 +5,20 @@
   <img src="https://komarev.com/ghpvc/?username=ariandika&label=Profile%20views&color=0e75b6&style=flat" alt="ariandika" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding-gif" />
+</p>
+
 ---
 
 ### 🧠 About Me
 
-- 🎓 I’m a student at **Universitas Indraprasta PGRI**, majoring in Informatics Engineering  
-- 👨‍💻 I’m a **Fullstack Developer** with experience in **React, Vite, Node.js, .NET**
-- 🌱 Currently deepening my skills in **backend development & scalable systems**
-- 📫 Contact me: **ariandika1913@gmail.com**
-- 🌐 IG & LinkedIn: coming soon...
+- 🎓 Student at **Universitas Indraprasta PGRI**, majoring in Informatics Engineering  
+- 👨‍💻 Fullstack Developer skilled in **React, Vite, Node.js, .NET**  
+- 💾 Experienced with **PostgreSQL** and **SQL Server**  
+- 🌱 Currently learning about **backend optimization & scalable systems**
+- 📫 Reach me at: **ariandika1913@gmail.com**
+- 🌐 IG & LinkedIn: *coming soon...*
 
 ---
 
@@ -23,8 +28,8 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
 
 ---
 
