@@ -2,6 +2,19 @@
 <h3 align="center">🚀 Fullstack Developer | 🎓 Informatics Engineering Student</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=83CD29" />
+  <img src="https://img.shields.io/badge/.NET-20232A?style=for-the-badge&logo=dotnet&logoColor=9C4EF7" />
+</p>
+
+> *"Build things that matter. Write code that lasts."*
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" />
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ariandika&label=Profile%20views&color=0e75b6&style=flat" alt="ariandika" />
 </p>
 
